@@ -1,0 +1,10 @@
+{
+  "name": "socket_server",
+  "description": "A test socket server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.2"
+  }
+}
